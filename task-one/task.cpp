@@ -87,7 +87,7 @@ int main() {
       cout << "Info of point three" << endl;
       cout << p3.x() << '\t' << p3.y() << '\t' << p3.z() << endl;
 
-      cout << "\nChanging values of x, y, z" << endl;
+      cout << "\nChanging values x, y, z of point one" << endl;
       p1.x() = 1; p1.y() = 10; p1.z() = 100;
 
       cout << "Info of point one" << endl;
